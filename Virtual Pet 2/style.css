@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("pptd.jpeg");
+}
+canvas{
+  border: 2px solid rgb(125, 238, 20);
+  margin-top:50px;
+  margin-left: 350px;
+}
